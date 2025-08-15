@@ -28,3 +28,6 @@ Kotlin: Cannot inline bytecode built with JVM target 17 into bytecode that is be
 5. Open the repository
 6. Load maven dependencies
 7. Run the application over the run configurations <br />![](./doc_assets/run-bar.png)<br /><br />or on the file `Application.kt` within the editor <br /><br />![](./doc_assets/run-editor.png)
+
+## Links
+- Jetbrains Youtrack Bugreport [KTIJ-35266](https://youtrack.jetbrains.com/issue/KTIJ-35266/)
